@@ -1,0 +1,8 @@
+{
+  "baseline_accuracy": 0.87,
+  "best_single_model": "convnext_small.fb_in22k",
+  "best_single_accuracy": 0.97,
+  "ensemble_models": 2,
+  "final_accuracy_estimate": 0.98,
+  "total_training_time_hours": 2.5
+}
